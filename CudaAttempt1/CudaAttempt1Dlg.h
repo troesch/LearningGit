@@ -1,4 +1,10 @@
 
+
+//These are just test comments now...
+
+// Do they go ok?
+
+
 // CudaAttempt1Dlg.h : header file
 //
 
